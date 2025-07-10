@@ -46,6 +46,8 @@ You can find a suitable dataset on [Kaggle](https://www.kaggle.com/datasets).
 6. **Model Saving**
    - Save the trained model for future use
 
+![preview 1](./workflow.png)
+
 ---
 
 ## 🧰 Dependencies
